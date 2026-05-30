@@ -1,3 +1,5 @@
+import { LogoCloud } from "@/components/logo-cloud-2";
+
 export default function Home() {
   return (
     <>
@@ -212,6 +214,15 @@ export default function Home() {
             </div>
           </div>
         </div>
+      </section>
+      
+      {/* Companies we collaborate with */}
+      <section className="relative mx-auto grid max-w-3xl py-32">
+        <h2 className="mb-6 text-center font-medium text-lg text-muted-foreground tracking-tight md:text-2xl">
+          Companies we{" "}
+          <span className="font-semibold text-primary">collaborate</span> with.
+        </h2>
+        <LogoCloud />
       </section>
 
       {/* Testimonials */}
