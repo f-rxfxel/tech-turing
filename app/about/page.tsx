@@ -20,7 +20,7 @@ export default function About() {
               Defined by <span className="text-primary text-glow">Precision</span>
             </h1>
             <p className="font-body-lg text-on-surface-variant mb-10 max-w-lg">
-              FORGE PC was founded on a singular premise: that high-performance
+              TECH TURING was founded on a singular premise: that high-performance
               computing should be as beautiful as it is powerful. We don&apos;t just
               assemble parts; we engineer digital masterpieces.
             </p>
@@ -118,7 +118,7 @@ export default function About() {
             </h2>
             <div className="space-y-6 text-on-surface-variant font-body-lg">
               <p>
-                Established in 2012, FORGE PC emerged as a small boutique workshop
+                Established in 2012, TECH TURING emerged as a small boutique workshop
                 for local competitive overclockers. Our focus was never on volume,
                 but on the relentless pursuit of thermal perfection.
               </p>
@@ -193,7 +193,7 @@ export default function About() {
                 Aesthetic Integrity
               </h4>
               <p className="text-on-surface-variant font-body-md">
-                A FORGE PC is a centerpiece. We utilize automotive-grade finishes,
+                A TECH TURING is a centerpiece. We utilize automotive-grade finishes,
                 custom CNC-milled panels, and curated lighting profiles.
               </p>
             </div>
@@ -282,7 +282,7 @@ export default function About() {
             <div className="relative group overflow-hidden rounded-xl">
               <img
                 className="w-full h-auto grayscale group-hover:grayscale-0 transition-all duration-700"
-                alt="A wide shot of the FORGE PC assembly floor."
+                alt="A wide shot of the TECH TURING assembly floor."
                 src="https://lh3.googleusercontent.com/aida-public/AB6AXuA2tzROlrYcdD0M_zuhc_ZXmUqR-5OFpQR2uN2VA35CmcRSA4UAQSYgI0S-DMbJRW7jyVVFt4sCK6d27e4HwREYC2Ac8e8EmFKqkk7wIvGF24wnybQZ6iYDb_OwGS_xs_x6ucfewPvFZef5ewEb29jTIawNVYxsb9Rdvj8NI8qNYup1j3pITzgMPMGqJL-VzDovLsiXgpPGE2cXe0cwtWjHSZejNYoHYSNu-FeoeS3wo9laUFSJb0V34tW-uA-6C9C_-mrj9VuBwKk"
               />
             </div>

@@ -4,7 +4,7 @@ export default function Testimonials() {
       id: 1,
       type: "Custom Workstation",
       stars: 5,
-      text: "The level of cable management and attention to thermal performance is unlike anything I've seen in pre-builts. FORGE PC truly understands professional workflows.",
+      text: "The level of cable management and attention to thermal performance is unlike anything I've seen in pre-builts. TECH TURING truly understands professional workflows.",
       img: "https://lh3.googleusercontent.com/aida-public/AB6AXuCDTgqWEWcNiKqcuRU36cHXTOb-PxOIORTbx2cQGkK0IqvtCZmKHBPGl1-Tn5M3KKKVH7fPflajJQwsnL3jIb5hftJml_qF4xqg6VL5gK8yLqd3OpJ9SY4Rjpr3XvbkWwn1yD2Q_RYdS3b2HUBxVQxf8tnYTGIc9mrIkDvFO7Jo8YV2gHJ8ad9kAv0f5LEwC_GT7K8m4smWlyOvCU2btaoISM5fw3WcvXVAwMOjuJE6ZHbs1MtHOb_cEgOMg6MQGLCYm-vTNEMWxw8",
       author: "Julian Sterling",
       location: "San Francisco, CA",
@@ -26,7 +26,7 @@ export default function Testimonials() {
       id: 3,
       type: "Deep Learning Rig",
       stars: 5,
-      text: "Needed a multi-GPU setup for AI training. FORGE PC built a custom thermal solution that keeps everything stable under load. True engineering pros.",
+      text: "Needed a multi-GPU setup for AI training. TECH TURING built a custom thermal solution that keeps everything stable under load. True engineering pros.",
       img: "https://lh3.googleusercontent.com/aida-public/AB6AXuC6zVOVI5OfjgDHq-YN4hWn_Isr_4JvNq2JBdFSs6prEMdsT6I681rF-4VWKUTIsklCYK1eJUg6qqvg2f0D0F1EJjBpBrAM9M-M8PdBua5enZDzClHSPB1w_zSlxrpP_qKTTklRJq6DYHAMPMg28L7eLZlHdPqj_xBtp1ThBVmwhHRxagLPLpznNUfcxqTNcB2hpFuFUbmW7PEBsaUgr2pn7-74Z2kUpQygPG_GASqpa041_fnkoas3-8--vef2OWAT6c6dhEM9rQg",
       author: "Dr. Marcus Chen",
       location: "Seattle, WA",
@@ -57,7 +57,7 @@ export default function Testimonials() {
             Engineered for Excellence. Proven by Performance.
           </h1>
           <p className="font-body-lg text-on-surface-variant max-w-xl">
-            Every FORGE PC is a testament to precision engineering. Discover why
+            Every TECH TURING is a testament to precision engineering. Discover why
             the world&apos;s most demanding professionals and enthusiasts trust us
             with their hardware.
           </p>

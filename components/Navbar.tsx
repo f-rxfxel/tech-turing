@@ -5,7 +5,7 @@ export default function Navbar() {
     <nav className="docked full-width top-0 sticky z-50 bg-surface/80 backdrop-blur-xl border-b border-white/10 shadow-2xl">
       <div className="flex justify-between items-center max-w-max-width mx-auto px-margin-desktop h-20">
         <Link href="/" className="font-display-lg text-display-lg tracking-tighter text-primary">
-          FORGE PC
+          TECH TURING
         </Link>
         <div className="hidden md:flex items-center space-gap-12 gap-8">
           <Link

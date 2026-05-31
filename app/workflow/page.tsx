@@ -43,7 +43,7 @@ export default function Workflow() {
     {
       num: "06",
       title: "Testing",
-      text: "Every FORGE PC undergoes a 72-hour stress test. We push thermals, clock speeds, and stability to their limits to guarantee consistent performance under the most demanding workloads.",
+      text: "Every TECH TURING undergoes a 72-hour stress test. We push thermals, clock speeds, and stability to their limits to guarantee consistent performance under the most demanding workloads.",
       time: "72 HOURS",
       icon: "query_stats",
       img: "https://lh3.googleusercontent.com/aida-public/AB6AXuBlCTHuo-pM-BBgkVDoEVt1OLB_3N1bze2pTDJ5BhAQryAHmWFH6_tBuqrWNUu0WQiryc5g-ImohLB15zZb261vX4-qVs1175sS-AW6njFT-JdlZVxLyNI9xLF7WNgOb_5g8kn6-XiimgnafCXjeKx0FIlrXOFnLxjpfSJFezcn3S4kN22Ikx_EI15zzK8o9VbroNrWYdm_Sb7S1upJPez3MLjFjUjEdJ0SmKW9ia6N2lUaBaSvNzu9J8hjpZzBOhhHdnHRiePgq0g",

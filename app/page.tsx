@@ -262,7 +262,7 @@ export default function Home() {
                 format_quote
               </span>
               <p className="font-headline-md text-headline-md relative z-10 leading-relaxed mb-8">
-                FORGE PC didn&apos;t just build me a computer; they solved a thermal
+                TECH TURING didn&apos;t just build me a computer; they solved a thermal
                 problem I&apos;ve had for years. My render times have dropped by 40%
                 and the machine is silent. Exceptional engineering.
               </p>

@@ -23,7 +23,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "FORGE PC | Engineered Precision",
+  title: "TECH TURING | Engineered Precision",
   description: "Elite high-performance computing services.",
 };
 

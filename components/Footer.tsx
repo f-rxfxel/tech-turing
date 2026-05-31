@@ -6,14 +6,14 @@ export default function Footer() {
       <div className="grid grid-cols-12 gap-gutter max-w-max-width mx-auto px-margin-desktop py-16">
         <div className="col-span-12 md:col-span-4">
           <div className="font-headline-md text-headline-md text-primary mb-6">
-            FORGE PC
+            TECH TURING
           </div>
           <p className="font-body-md text-body-md text-on-surface-variant max-w-xs mb-8">
             Precision engineering for the elite enthusiast. Hand-built in our
             laboratory for those who demand nothing less than perfection.
           </p>
           <p className="font-label-sm text-label-sm text-on-surface-variant opacity-80">
-            © 2024 FORGE PC. ENGINEERED PRECISION.
+            © 2024 TECH TURING. ENGINEERED PRECISION.
           </p>
         </div>
         <div className="col-span-6 md:col-span-2">

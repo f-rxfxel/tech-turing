@@ -211,7 +211,7 @@ export default function BuildDetails() {
               Engineering Highlights
             </h2>
             <p className="font-body-md text-on-surface-variant max-w-2xl mx-auto">
-              The difference is in the details. Every Forge PC undergoes a
+              The difference is in the details. Every TECH TURING undergoes a
               rigorous multi-point inspection and tuning process.
             </p>
           </div>
